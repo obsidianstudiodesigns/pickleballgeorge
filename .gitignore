@@ -1,0 +1,10 @@
+# local tooling
+.claude/
+
+# full-size originals (the site uses the *-web.jpg versions)
+assets/court-1.jpg
+assets/court-2.jpg
+assets/court-3.jpg
+assets/venue.jpg
+assets/banner.jpg
+assets/courts-graphic.jpg
